@@ -1,0 +1,15 @@
+# Web & Crawling
+selenium
+webdriver-manager
+beautifulsoup4
+requests
+
+# AI & Processing
+torch
+transformers
+Pillow
+tqdm
+
+# UI & Gallery
+streamlit
+flask
