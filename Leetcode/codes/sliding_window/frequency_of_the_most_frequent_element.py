@@ -1,3 +1,16 @@
-# Problem: Frequency of the Most Frequent Element
+"""
+Problem: Frequency of the Most Frequent Element
 
-# Code goes here
+Description:
+The frequency of an element is the number of times it occurs in an array. You are given an integer array nums and an integer k. In one operation, you can choose an index of nums and increment the element at that index by 1. Return the maximum possible frequency of an element after performing at most k operations.
+
+Constraints:
+1 <= nums.length <= 10^5, 1 <= nums[i] <= 10^5, 1 <= k <= 10^5.
+
+Example:
+Input: nums = [1,2,4], k = 5 -> Output: 3
+"""
+
+class Solution:
+    def maxFrequency(self, nums: List[int], k: int) -> int:
+        pass
